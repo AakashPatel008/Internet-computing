@@ -2,7 +2,7 @@ body{
   height: 95vh;
   background: Black;
   font-family: Sans-serif;
-  color: #39ff14;
+  color: white;
   font-size: 24px;
   display: flex;
   flex-direction: column;
@@ -13,7 +13,7 @@ h1 {
   padding: 1em 0 1em 0;
   text-align: center;
   font-size: 40px;
-  color: #39ff14;
+  color: Black;
 }
 
 
